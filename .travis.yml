@@ -38,6 +38,7 @@ script:
   - set -e 
   #build jekyll site
   - jekyll build 
+  # precache
   - npm run precache
 
 after_success:

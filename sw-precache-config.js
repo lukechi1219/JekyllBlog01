@@ -4,7 +4,7 @@
 
 module.exports = {
   staticFileGlobs: [
-    '_site/**.html',
+    '_site/index.html',
     '_site/**.js',
     '_site/**.css',
     '_site/assets/images/*',

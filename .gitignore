@@ -2,6 +2,9 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
+# dependencies
+/node_modules
+
 # =========================
 # Operating System Files
 # =========================

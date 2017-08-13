@@ -1,0 +1,25 @@
+{
+  "name": "jekyll-blog-01",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "luke.chi@gmail.com",
+  "private": true,
+  "scripts": {
+    "precache": "sw-precache --verbose --config=sw-precache-config.js"
+  },
+  "dependencies": {
+    "sw-precache": "^5.2.0"
+  },
+  "devDependencies": {
+    "sw-precache": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukechi1219/JekyllBlog01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukechi1219/JekyllBlog01/issues"
+  },
+  "homepage": "https://github.com/lukechi1219/JekyllBlog01#readme"
+}

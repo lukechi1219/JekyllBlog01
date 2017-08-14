@@ -13,7 +13,7 @@ module.exports = {
   ],
   root: '_site',
   stripPrefix: '_site/',
-  navigateFallback: '/index.html',
+//  navigateFallback: '/index.html',
   runtimeCaching: [{
     urlPattern: /node-hnapi\.herokuapp\.com/,
     handler: 'networkFirst'

@@ -2,7 +2,8 @@
 layout: post
 title:  "Jekyll + Firebase + Travis"
 date:   2017-08-13 13:54:57 +0800
-categories: jekyll update
+categories: jekyll
+tags: 
 ---
 
 Here's simple cmd to install Jekyll and deploy it to Firebase + Travis CI:

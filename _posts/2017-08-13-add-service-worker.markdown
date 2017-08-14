@@ -3,6 +3,7 @@ layout: post
 title:  "Add Service Worker"
 date:   2017-08-13 23:54:57 +0800
 categories: pwa
+tags: pwa
 ---
 
 https://github.com/GoogleChrome/sw-precache#install

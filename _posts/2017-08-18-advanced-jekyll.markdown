@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "Advanced Jekyll"
 date:   2017-08-18 14:05:00 +0800

@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "Write a Material Design AngularDart Web App"
 date:   2017-08-28 13:40:57 +0800

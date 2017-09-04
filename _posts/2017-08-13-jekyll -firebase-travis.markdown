@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "Jekyll + Firebase + Travis"
 date:   2017-08-13 13:54:57 +0800

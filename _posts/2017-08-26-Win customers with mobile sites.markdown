@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "Win customers with mobile sites"
 date:   2017-08-26 15:54:57 +0800

@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "Cut load times with Developer Tools"
 date:   2017-08-26 16:44:57 +0800

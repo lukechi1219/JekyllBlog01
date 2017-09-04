@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "About the Mobile Sites certification"
 date:   2017-08-26 17:20:57 +0800

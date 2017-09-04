@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "Making a Dart web app PWA"
 date:   2017-08-28 13:20:57 +0800

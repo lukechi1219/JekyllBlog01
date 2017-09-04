@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 author: luke_chi
 title:  "Speed up mobile site rendering"
 date:   2017-08-26 17:10:57 +0800

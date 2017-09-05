@@ -7,7 +7,7 @@ categories: mobile
 tags: mobile
 ---
 
-https://academy.exceedlms.com/uploads/resource_courses/targets/7741/original/index.html#/id/58e876be9df876a405f12da7
+<https://academy.exceedlms.com/student/home/show_enrollment/2896176>
 
 What you'll learn
 
@@ -54,4 +54,4 @@ To learn more about optimizing your page’s critical rendering path, check out 
 
 Optimizing the Critical Rendering Path
 
-<a href="https://developers.google.com/web/fundamentals/performance/critical-rendering-path/optimizing-critical-rendering-path">optimizing-critical-rendering-path</a>
+<https://developers.google.com/web/fundamentals/performance/critical-rendering-path/optimizing-critical-rendering-path>

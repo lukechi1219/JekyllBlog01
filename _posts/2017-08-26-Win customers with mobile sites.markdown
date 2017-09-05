@@ -7,7 +7,7 @@ categories: mobile
 tags: mobile
 ---
 
-https://academy.exceedlms.com/uploads/resource_courses/targets/7738/original/index.html#/id/58e866189df876a405f12cd3
+<https://academy.exceedlms.com/student/home/show_enrollment/2895272>
 
 Win customers with mobile sites
 
@@ -50,4 +50,4 @@ Find Out How You Stack Up to New Industry Benchmarks for Mobile Page Speed
 
 Mobile Retail Apps and Sites: Designing a Better Experience for Shoppers
 
-<a href="https://www.thinkwithgoogle.com/articles/mobile-retail-apps-and-sites-designing-better-experience-for-shoppers.html">mobile-retail-apps-and-sites-designing-better-experience-for-shoppers</a>
+<https://www.thinkwithgoogle.com/articles/mobile-retail-apps-and-sites-designing-better-experience-for-shoppers.html>

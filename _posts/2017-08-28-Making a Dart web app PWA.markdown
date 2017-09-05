@@ -25,7 +25,7 @@ While the above list may sound a bit scary, we have a pwa package in Dart that d
 
 Import the pwa package in your pubspec.yaml:
 
-{% highlight script %}
+{% highlight yaml %}
 dependencies:
   pwa: ^0.1.2
 {% endhighlight %}
@@ -45,9 +45,9 @@ Automatically generated progressive web application
 
 The pwa package provides code generation that handles items 1–2 and 4–5 from the above list. To ensure proper cache use (both populating and invalidating the cache) use the following workflow:
 
-- Build your web app with all of the static resources landing in build/web: pub build
-- Run pwa’s code generator to scan (or rescan) your offline assets: pub run pwa
-- Build your project again, because you need to have your (new) pwa.dart file compiled: pub build
+- Build your web app with all of the static resources landing in build/web: **pub build**
+- Run pwa’s code generator to scan (or rescan) your offline assets: **pub run pwa**
+- Build your project again, because you need to have your (new) pwa.dart file compiled: **pub build**
 
 These steps produce a file named lib/pwa/offline_urls.g.dart that contains a list of the offline URLs to be cached. The .g.dart extension indicates that the file is generated and may be overwritten automatically by pwa’s code generator tool.
 

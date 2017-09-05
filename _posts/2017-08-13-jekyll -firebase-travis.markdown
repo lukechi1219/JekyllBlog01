@@ -9,7 +9,7 @@ tags:
 
 Here's simple cmd to install Jekyll and deploy it to Firebase + Travis CI:
 
-{% highlight script %}
+{% highlight ruby %}
 
 choco install ruby -y
 gem install bundler
@@ -37,7 +37,7 @@ firebase login:ci
 
 Simple .travis.yml for your reference.
 
-{% highlight yml %}
+{% highlight yaml %}
 
 language: node_js
 

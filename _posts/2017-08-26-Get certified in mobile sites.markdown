@@ -7,5 +7,5 @@ categories: mobile
 tags: mobile
 ---
 
-https://academy.exceedlms.com/student/home/show_enrollment/2895259#
+<https://academy.exceedlms.com/student/home/show_enrollment/2895259#>
 

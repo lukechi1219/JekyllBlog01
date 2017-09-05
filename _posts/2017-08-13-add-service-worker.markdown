@@ -7,17 +7,16 @@ categories: pwa
 tags: pwa
 ---
 
-https://github.com/GoogleChrome/sw-precache#install
+<https://github.com/GoogleChrome/sw-precache#install>
 
-{% highlight script %}
+{% highlight shell %}
 
 $ npm install --save-dev sw-precache
-
 sw-precache --config=path/to/sw-precache-config.js --verbose
 
 {% endhighlight %}
 
-https://codelabs.developers.google.com/codelabs/sw-precache/#5
+<https://codelabs.developers.google.com/codelabs/sw-precache/#5>
 
 Add the following &lt;script&gt; tag to the bottom of your index.html file to register your service worker:
 
@@ -35,4 +34,4 @@ if ('serviceWorker' in navigator) {
 
 How does SW-Precache works
 
-ref: https://medium.com/@Huxpro/how-does-sw-precache-works-2d99c3d3c725
+ref: <https://medium.com/@Huxpro/how-does-sw-precache-works-2d99c3d3c725>

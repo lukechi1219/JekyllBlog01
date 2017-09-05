@@ -19,11 +19,11 @@ copy html you want from bundle
 
 Adding authors to your Jekyll site
 
-ref: https://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+ref: <https://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html>
 
 Create a file in _data/authors.yml containing your authors information.
 
-{% highlight script %}
+{% highlight yaml %}
 
 # Author details.
 robert_rawlins:
@@ -34,7 +34,7 @@ robert_rawlins:
 
 in you post
 
-{% highlight script %}
+{% highlight md %}
 ---
 layout: post
 author: robert_rawlins
@@ -43,7 +43,7 @@ author: robert_rawlins
 
 in _layouts/post.html
 
-{% highlight script %}
+{% highlight md %}
 
 <!-- Look the author details up from the site config. -->
 { % assign author = site.data.authors[page.author] % }
@@ -52,8 +52,8 @@ in _layouts/post.html
 
 ref:
 
-https://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+<https://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html>
 
-http://alanwsmith.com/jekyll-liquid-date-formatting-examples
+<http://alanwsmith.com/jekyll-liquid-date-formatting-examples>
 
-https://learn.cloudcannon.com/jekyll/date-formatting/
+<https://learn.cloudcannon.com/jekyll/date-formatting/>

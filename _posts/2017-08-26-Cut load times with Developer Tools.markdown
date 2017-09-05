@@ -7,7 +7,7 @@ categories: mobile
 tags: mobile
 ---
 
-https://academy.exceedlms.com/uploads/resource_courses/targets/7750/original/index.html#/id/58e86cf49df876a405f12d28
+<https://academy.exceedlms.com/student/home/show_enrollment/2895847>
 
 Cut load times with Developer Tools
 
@@ -88,5 +88,5 @@ Get Started with Analyzing Network Performance in Chrome DevTools
 
 Udacity Web Performance Optimization
 
-<a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPmKmNX-INgcxQWf30KuWa_A">Udacity Web Performance Optimization</a>
+<https://www.youtube.com/playlist?list=PLAwxTw4SYaPmKmNX-INgcxQWf30KuWa_A>
 

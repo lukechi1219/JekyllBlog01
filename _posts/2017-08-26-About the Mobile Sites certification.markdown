@@ -7,9 +7,11 @@ categories: mobile
 tags: mobile
 ---
 
-https://support.google.com/partners/answer/7358898
+<https://support.google.com/partners/answer/7358898>
 
-The Mobile Sites certification is a professional accreditation that Google offers to individuals who demonstrate proficiency in basic and advanced aspects of mobile website design and development. A Mobile Sites certification allows individuals to demonstrate that Google recognizes them as an expert in mobile sites.
+The Mobile Sites certification is a professional accreditation that Google offers to individuals who demonstrate proficiency in basic and advanced aspects of mobile website design and development. 
+
+A Mobile Sites certification allows individuals to demonstrate that Google recognizes them as an expert in mobile sites.
 
 This article explains the benefits of getting certified, how to get certified, and how to share and communicate your certification status with others.
 

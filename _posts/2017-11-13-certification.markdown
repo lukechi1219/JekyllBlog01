@@ -16,6 +16,8 @@ Prove your mobile web skills by earning a Mobile Web Specialist Certification. E
 
 <https://developers.google.com/training/certification/mobile-web-specialist/>
 
+<https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide_MobileWebSpecialist.pdf>
+
 <https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide-MobileWebSpecialist.pdf>
 
 
@@ -32,5 +34,5 @@ This exam covers basic and advanced concepts, including best practices for creat
 <https://support.google.com/partners/answer/7327828?hl=zh-Hant&ref_topic=7327827&visit_id=1-636453218145398601-4161262950&rd=1>
 
 ---
-Google Certified Professional: Cloud Architect 
+Google Certified Professional: Cloud Architect
 <https://cloud.google.com/certification/cloud-architect>

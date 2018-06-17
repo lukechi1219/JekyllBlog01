@@ -1,1 +1,1 @@
-jekyll s
+bundle exec jekyll s

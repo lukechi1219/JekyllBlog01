@@ -12,7 +12,12 @@ Here's simple cmd to install Jekyll and deploy it to Firebase + Travis CI:
 {% highlight ruby %}
 
 choco install ruby --version 2.4.3.1 -y
-ridk install
+ridk install -> 3
+OR
+https://rubyinstaller.org/downloads/
+Ruby+Devkit 2.4.4-1 (x64) .exe
+ridk install -> 3
+
 gem install bundler
 gem install jekyll
 bundle check
@@ -24,6 +29,8 @@ jekyll new {site-dir-name}
 cd {site-dir-name}
 
 jekyll serve
+OR
+bundle exec jekyll serve
 
 choco install nodejs.install -Version=6.11.0
 

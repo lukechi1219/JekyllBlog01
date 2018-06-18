@@ -3,7 +3,7 @@
 author: luke_chi
 title:  "Mobile Web Specialist Nanodegree"
 date:   2018-06-18 09:40:57 +0800
-categories: payment
+categories: certification
 tags:
 ---
 

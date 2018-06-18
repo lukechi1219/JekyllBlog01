@@ -42,6 +42,11 @@ regardless of platform
 <!-- Note: To ensure that older browsers can properly parse the attributes, use a comma to separate attributes. -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Title of the document</title>
+<style>
+img, embed, object, video {
+  max-width: 100%;
+}
+</style>
 <link rel="stylesheet" href="print.css" media="print">
 <!-- TODO: need test this
 <style media="print">

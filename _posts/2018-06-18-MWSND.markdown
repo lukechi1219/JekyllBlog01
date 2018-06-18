@@ -1,0 +1,38 @@
+---
+# layout: post
+author: luke_chi
+title:  "Mobile Web Specialist Nanodegree"
+date:   2018-06-18 09:40:57 +0800
+categories: payment
+tags:
+---
+
+<https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024>
+
+Prepare for Google's Mobile Web Specialist certification with courses from Google
+
+<https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b189f1e_mwsnd-syllabus-2.0.0/mwsnd-syllabus-2.0.0.pdf>
+
+<h1>Part 1: Building Accessible and Responsive Web Apps</h1>
+* <https://www.udacity.com/course/responsive-web-design-fundamentals--ud893>
+* <https://www.udacity.com/course/responsive-images--ud882>
+* <https://www.udacity.com/course/web-accessibility--ud891>
+
+Project: Restaurant Reviews App—Stage One
+<https://github.com/udacity/mws-restaurant-stage-1>
+
+<h1>Part 2: Building Offline Capable Web Apps</h1>
+* <https://www.udacity.com/course/asynchronous-javascript-requests--ud109>
+* <https://www.udacity.com/course/es6-javascript-improved--ud356>
+* <https://www.udacity.com/course/offline-web-applications--ud899>
+* <https://www.udacity.com/course/web-tooling-automation--ud892>
+
+Project: Restaurant Reviews App—Stage Two
+<https://github.com/udacity/mws-restaurant-stage-2>
+
+<h1>Part 3: Building Performant Web Apps</h1>
+* <https://www.udacity.com/course/client-server-communication--ud897>
+* <https://www.udacity.com/course/browser-rendering-optimization--ud860>
+
+Project: Restaurant Reviews App—Stage Three
+<https://github.com/udacity/mws-restaurant-stage-3>

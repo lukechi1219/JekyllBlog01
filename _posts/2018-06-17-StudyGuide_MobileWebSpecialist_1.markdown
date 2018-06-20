@@ -46,6 +46,14 @@ regardless of platform
 img, embed, object, video {
   max-width: 100%;
 }
+nav, a, button {
+  min-width: 48px;
+  min-height: 48px;
+}
+a {
+  padding: 1.5em;
+  padding: 1.5em inherit;
+}
 </style>
 <link rel="stylesheet" href="print.css" media="print">
 <!-- TODO: need test this

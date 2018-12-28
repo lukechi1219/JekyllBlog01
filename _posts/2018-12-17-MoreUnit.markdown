@@ -1,0 +1,28 @@
+---
+# layout: post
+author: luke_chi
+title:  "MoreUnit"
+date:   2018-12-17 09:40:57 +0800
+categories: java
+tags:
+---
+
+<https://advancedweb.hu/2015/09/17/eclipse_tests_with_moreunit/>
+
+Ctrl+j -> edit test class
+
+Ctrl+u -> edit test method
+
+Ctrl+r -> run test
+
+<h1>Don’t Test Blindly</h1>
+* <https://zeroturnaround.com/rebellabs/dont-test-blindly-the-right-methods-for-unit-testing-your-java-apps/>
+* <https://zeroturnaround.com/rebellabs/why-your-next-cloud-app-will-probably-suck-without-unit-testing/>
+
+In this case you should prioritize things a bit and just write tests for the following:
+* Core code that is accessed by a lot of other modules
+* Code that seems to gather a lot of bugs
+* Code that changes by multiple different developers (often to accommodate new requirements)
+
+<h1>MEMO</h1>
+* <https://zeroturnaround.com/rebellabs/rebel-labs-report-go-away-bugs-keeping-your-code-safe-with-junit-testng-and-mockito/>

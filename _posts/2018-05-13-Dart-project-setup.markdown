@@ -76,6 +76,7 @@ targets:
     builders:
       angular_components|scss_builder:
         enabled: True
+
 {% endhighlight %}
 
 

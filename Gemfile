@@ -8,6 +8,9 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+
+gem "nokogiri", "1.8.5"
+
 gem "jekyll", "3.6.3"
 
 gem "jekyll-paginate"

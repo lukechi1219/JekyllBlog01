@@ -2,7 +2,7 @@
 # layout: post
 author: luke_chi
 title:  "Dagger - User's Guide"
-date:   2018-12-17 09:40:57 +0800
+date:   2019-01-21 09:40:57 +0800
 categories: android
 tags: dagger
 ---

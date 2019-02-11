@@ -7,7 +7,7 @@ categories: android
 tags: dagger
 ---
 
-CC source: <https://google.github.io/dagger/users-guide/>
+CC source: <https://google.github.io/dagger/users-guide>
 
 The best classes in any application are the ones that do stuff: the BarcodeDecoder, the KoopaPhysicsEngine, and the AudioStreamer. These classes have dependencies; perhaps a BarcodeCameraFinder, DefaultPhysicsEngine, and an HttpStreamer.
 

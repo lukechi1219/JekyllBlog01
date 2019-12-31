@@ -7,9 +7,9 @@ categories: [career]
 tags: [career]
 ---
 
-![image](https://miro. Medium .com/max/945/0*hJRRiac0yJIJr5OG)
+![image](https://miro.Medium.com/max/945/0*hJRRiac0yJIJr5OG)
 
-by Italo E Perez. [英文原文](https:// Medium .com/@italoeperez/building-your-profile-as-a-developer-e7088a1edc51)
+by Italo E Perez. [英文原文](https://Medium.com/@italoeperez/building-your-profile-as-a-developer-e7088a1edc51)
 
 推動全世界運轉的大多數軟體，都是由沒沒無聞的軟體工程師打造出來的：安靜的成就者，他們在螢光燈下努力工作著。我曾經與一些最優秀的軟體工程師合作，他為他們的團隊和他們所從事的專案做出了令人難以置信的貢獻，但是卻絲毫沒有留下任何痕跡。他們的 GitHub 個人資料 (Profile) 大多是空的，沒有網站，沒有業餘專案 (side projects) ，也沒有當過技術研討會的講者。擁有公開 (且豐富) 的軟體開發者 Profile，並不是成為一名出色工程師的必要條件，但它可以在許多方面幫助你；
 

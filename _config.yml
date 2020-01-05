@@ -111,3 +111,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Analytics
+prod-analytics-id:  UA-155370267-1
+dev-analytics-id:   UA-DEVXX-2

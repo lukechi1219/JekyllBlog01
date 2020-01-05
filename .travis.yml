@@ -39,7 +39,7 @@ script:
   #continue even after error
   - set -e 
   #build jekyll site
-  - jekyll build 
+  - JEKYLL_ENV=production jekyll build
   # precache
   - npm run precache
 

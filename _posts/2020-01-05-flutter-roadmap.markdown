@@ -37,7 +37,7 @@ Fundamentals
 
 我們的首要目標是繼續為 Flutter 的現有基礎增加光澤 (add polish to)：
 
-* **錯誤修復**，主要基於有多少 "豎起大拇指" 表情符號反應問題（有關優先排序策略的更多詳細信息，請參見 [Issue hygiene](https://github.com/flutter/flutter/wiki/Issue-hygiene){:target="_blank"} and [Issue triage](https://github.com/flutter/flutter/wiki/Triage){:target="_blank"} Wiki 頁面）。 （除了下面特別指出的以外，新功能是我們特意淡化的一個領域，因為在添加更多功能之前，我們首先修復了已經實現的功能中的錯誤。）
+* **問題修復**，主要基於有多少 "豎起大拇指" 表情符號反應問題（有關優先排序策略的更多詳細信息，請參見 [Issue hygiene](https://github.com/flutter/flutter/wiki/Issue-hygiene){:target="_blank"} and [Issue triage](https://github.com/flutter/flutter/wiki/Triage){:target="_blank"} Wiki 頁面）。 （除了下面特別指出的以外，新功能是我們特意淡化的一個領域，因為在添加更多功能之前，我們傾向先修正已經實現的功能中的問題。）
 * **性能**，包括記憶體使用率，engine footprint，幀時間 (frame times) 等。如果您有特定的基準測試 (benchmarks ) 希望我們採用 (work on)，最好的方法是將它們作為 [devicelab tests](https://github.com/flutter/flutter/tree/master/dev/devicelab){:target="_blank"} 提供給我們，讓我們知道它們！
 * **改進測試** 以確保我們有信心能夠可靠，快速地提供穩定的構建 (builds) 而不會出現退化。
 * 根據用戶研究 **改進錯誤訊息**，使錯誤更可操作並包括常見的解決方案。

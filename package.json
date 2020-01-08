@@ -8,11 +8,9 @@
   "scripts": {
     "precache": "sw-precache --verbose --config=sw-precache-config.js"
   },
-  "dependencies": {
-    "sw-precache": "^5.2.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "sw-precache": "^5.2.0"
+    "sw-precache": "^5.2.1"
   },
   "repository": {
     "type": "git",

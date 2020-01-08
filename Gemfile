@@ -13,7 +13,7 @@ gem "nokogiri", ">= 1.10.4"
 
 gem "activesupport", ">= 4.1.11"
 
-gem "jekyll", "3.6.3"
+gem "jekyll", ">= 3.6.3"
 
 gem "jekyll-paginate"
 

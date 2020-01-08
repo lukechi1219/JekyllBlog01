@@ -7,9 +7,6 @@ categories: []
 tags: []
 ---
 
-![image](https://cc.tvbs.com.tw/img/upload/2018/05/16/20180516120513-ce4fd9aa.png)
+[](){:target="_blank"}
 
-
-[link](https://codelabs.developers.google.com/codelabs/payment-request-api/index.html?index=..%2F..%2Fio2017#0){:target="_blank"}
-
-<https://codelabs.developers.google.com/codelabs/payment-request-api/index.html?index=..%2F..%2Fio2017#0>{:target="_blank"}
+![image](){:target="_blank"}

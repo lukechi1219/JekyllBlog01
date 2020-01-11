@@ -2,7 +2,7 @@
 # layout: post
 author: luke_chi
 title:  "Life as a Dart intern"
-date:   2020-01-01 00:40:57 +0800
+date:   2020-01-09 00:40:57 +0800
 categories: [dart]
 tags: []
 ---

@@ -15,7 +15,5 @@ src <https://flutter.dev/docs/development/ui/layout/box-constraints>
 * [Layout 3: Creating responsive apps]({{ site.baseurl }}{% link _posts/2020-01-09-layout-3-responsive-apps.markdown %})
 * [Layout 4: Dealing with box constraints]({{ site.baseurl }}{% link _posts/2020-01-09-layout-4-box-constraints.markdown %})
 
+簡中 [处理边界约束 (Box constraints) 的问题](https://flutter.cn/docs/development/ui/layout/box-constraints){:target="_blank"}
 
-[](){:target="_blank"}
-
-![image](){:target="_blank"}

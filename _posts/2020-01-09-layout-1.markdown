@@ -15,7 +15,5 @@ src <https://flutter.dev/docs/development/ui/layout>
 * [Layout 3: Creating responsive apps]({{ site.baseurl }}{% link _posts/2020-01-09-layout-3-responsive-apps.markdown %})
 * [Layout 4: Dealing with box constraints]({{ site.baseurl }}{% link _posts/2020-01-09-layout-4-box-constraints.markdown %})
 
+簡中 [Flutter 中的布局](https://flutter.cn/docs/development/ui/layout){:target="_blank"}
 
-[](){:target="_blank"}
-
-![image](){:target="_blank"}

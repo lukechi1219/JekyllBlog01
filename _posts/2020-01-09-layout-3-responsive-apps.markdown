@@ -23,7 +23,7 @@ src <https://flutter.dev/docs/development/ui/layout/responsive>
 當使用者在 NB 或桌上型電腦上調整視窗大小，或旋轉手機或平板的方向，
 app 應根據不同情況來重新安排 UI。
 
-Flutter 可以幫助您創造可以自動適應裝置螢幕尺寸與方向的 apps。
+Flutter 可以幫助您創造自動適應裝置螢幕尺寸與方向的 apps。
 
 有兩個基本方法來創造具有響應式設計的 Flutter apps:
 
@@ -42,7 +42,7 @@ Flutter 可以幫助您創造可以自動適應裝置螢幕尺寸與方向的 ap
 **Use the [MediaQuery.of](https://api.flutter.dev/flutter/widgets/MediaQuery/of.html){:target="_blank"} method in your build functions**
 : 這方法為您提供了當前應用程式的尺寸，方向等資訊。
   這個方法更有用，如果您要基於完整的 context 而不是僅基於特定 widget 的尺寸來做出決策。
-  同樣地當你使用這個方法，如果使用者 somehow 改變了 app 的尺寸，則 build function 就會自動執行。
+  同樣地當你使用這個方法，如果使用者改變了 app 的尺寸，則 build function 就會自動執行。
 
 For more information, here are a few resources,
 including contributions from the Flutter community:
@@ -66,3 +66,7 @@ including contributions from the Flutter community:
 * [MediaQuery](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html){:target="_blank"}
 * [MediaQueryData](https://api.flutter.dev/flutter/widgets/MediaQueryData-class.html){:target="_blank"}
 * [OrientationBuilder](https://api.flutter.dev/flutter/widgets/OrientationBuilder-class.html){:target="_blank"}
+
+--
+[簡中 ver](https://flutter.cn/docs/development/ui/layout/responsive){:target="_blank"}
+

@@ -1,7 +1,7 @@
 ---
 # layout: post
 author: luke_chi
-title:  "Developing for Multiple Screen Sizes and Orientations in Flutter (Fragments in Flutter)"
+title:  "Developing for Multiple Screen Sizes and Orientations in Flutter"
 date:   2020-01-13 00:40:57 +0800
 categories: [flutter]
 tags: []

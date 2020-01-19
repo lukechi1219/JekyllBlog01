@@ -219,11 +219,11 @@ Okay that’s it for orientation but if you want to see how to deal with orienta
 
 # Should I care about Desktop support?
 
-As some of you know google is working on a new OS called fuchsia which will be available for desktop and mobile as well and flutter is going to be the official development tool for it.
+如您所知，Google 正在開發一個名為 fuchsia 的新 OS，該操作系統也將適用於 desktop 和 mobile，而 flutter 將成為其官方開發工具。
 
 As of 2019 Desktop is now a primary goal for the flutter team
 
-So the apps you create now for android IOS will work on fuchsia as well. The question here is: should I care about desktop support(in term of responsive UI)? My answer is No for the moment because in fuchsia the app can work in two modes the desktop and mobile mode and even if you run your app in desktop mode it will look good if you follow the above advice.
+因此，您現在為 Android, iOS 創建的 apps 也可以在 fuchsia 上運行。問題是：我應該關心 (響應式 UI) 在 desktop 的支援度嗎？目前而言我的回答是 "No"，因為在 fuchsia 中，該 app 可以在 desktop 和 mobile 兩種模式下工作，即使您在 desktop 模式下執行該應用程式，如果您遵循上述建議，也會看起來不錯。
 
 ![image](https://miro.medium.com/proxy/1*cc9jxD3g7dyR9O6ufCLQDw.jpeg){:target="_blank"}
 
@@ -237,7 +237,7 @@ That’s it for me I hope you enjoyed this article if you did feel free to clap 
 
 `in responsive design don’t think about specific device because you will just get in trouble`
 
-all the examples shown in this article can be found on this repo
+all the examples shown in this article can be found on this [repo](https://github.com/Rahiche/flutter_responsive_ui){:target="_blank"}
 
 Follow me and the flutter community on twitter for more articles.
 

@@ -14,10 +14,10 @@ notifications:
     on_failure : change 
 
 before_install:
-  #install rvm 2.4
-  - rvm install 2.4
-  #use rvm 2.4
-  - rvm use 2.4
+  #install rvm 2.6
+  - rvm install 2.6
+  #use rvm 2.6
+  - rvm use 2.6
   #set home varaibles
   - . $HOME/.nvm/nvm.sh && nvm install 10.18 && nvm use 10.18  
   # update gem

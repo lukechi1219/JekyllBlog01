@@ -2,8 +2,12 @@
 
 # layout: post
 
-author: luke_chi title:  "Flutter: Understanding Counter App"
-date:   2020-06-10 00:40:57 +0800 categories: [flutter]
+author: luke_chi
+
+title:  "Flutter: Understanding Counter App"
+date:   2020-06-10 00:40:57 +0800
+
+categories: [flutter]
 tags: []
 ---
 

@@ -14,10 +14,9 @@ description: desc
 top: true
 ---
 
-I work on many things in the area of technology, design, privacy, and security. You can contact me via email or twitter.
+I work in the area of technology, web & mobile application development. You can contact me via [email](mailto:luke.chi@gmail.com) or [twitter](https://twitter.com/lukechi1219){:target="_blank"}.
 
-ref https://devpoga.org/
-
-[](){:target="_blank"}
-
-![image](){:target="_blank"}
+* 1 
+* 2 
+* 3 
+* 4

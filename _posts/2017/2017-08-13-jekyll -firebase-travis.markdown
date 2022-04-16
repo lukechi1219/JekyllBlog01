@@ -22,7 +22,7 @@ gem install bundler
 gem install jekyll
 bundle check
 bundle install
-https://blog-host-d6b29.firebaseapp.com/jekyll/2017/09/05/fix-sass-encoding-on-windows.html
+https://blog-host-d6b29.web.app//jekyll/2017/09/05/fix-sass-encoding-on-windows.html
 
 jekyll new {site-dir-name}
 

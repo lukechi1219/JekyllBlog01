@@ -13,10 +13,12 @@ by Raouf Rahiche<br>
 src <https://medium.com/flutter-community/build-responsive-uis-in-flutter-fd450bd59158>
 
 相關文章
-* [Layout 1: Layouts in Flutter]({{ site.baseurl }}{% link _posts/2020-01-09-layout-1.markdown %})
-* [Layout 2: Tutorial]({{ site.baseurl }}{% link _posts/2020-01-09-layout-2-tutorial.markdown %})
-* [Layout 3: Creating responsive apps]({{ site.baseurl }}{% link _posts/2020-01-09-layout-3-responsive-apps.markdown %})
-* [Layout 4: Dealing with box constraints]({{ site.baseurl }}{% link _posts/2020-01-09-layout-4-box-constraints.markdown %})
+* [Layout 1: Layouts in Flutter]({{ site.baseurl }}{% link _posts/2020/2020-01-09-layout-1.markdown %})
+* [Layout 2: Tutorial]({{ site.baseurl }}{% link _posts/2020/2020-01-09-layout-2-tutorial.markdown %})
+* [Layout 3: Creating responsive apps]({{ site.baseurl }}{% link _
+  posts/2020/2020-01-09-layout-3-responsive-apps.markdown %})
+* [Layout 4: Dealing with box constraints]({{ site.baseurl }}{% link _
+  posts/2020/2020-01-09-layout-4-box-constraints.markdown %})
 
 `設計師喜歡使用 響應式 (responsive) UI，但要在現實生活中實做它們並不是那麼容易。作為 Flutter 開發人員，您不應對設計師說 NO。所以 let’s make them happy again.`
 

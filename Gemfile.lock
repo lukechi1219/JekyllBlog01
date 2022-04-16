@@ -107,6 +107,7 @@ GEM
     tzinfo-data (1.2019.3)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.6.0)
+    wdm (0.1.1)
 
 PLATFORMS
   x64-mingw32
@@ -121,8 +122,9 @@ DEPENDENCIES
   kramdown (>= 2.3.1)
   minima (~> 2.0)
   minimal-mistakes-jekyll
-  nokogiri (>= 1.11.4)
+  nokogiri (>= 1.13.4)
   tzinfo-data
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.1.4

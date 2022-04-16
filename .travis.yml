@@ -1,7 +1,7 @@
 language: node_js
 
 node_js:
-  - "10.18"
+  - "12"
 
 branches:
   only:
@@ -19,7 +19,7 @@ before_install:
   #use rvm 2.6
   - rvm use 2.6
   #set home varaibles
-  - . $HOME/.nvm/nvm.sh && nvm install 10.18 && nvm use 10.18  
+  - . $HOME/.nvm/nvm.sh && nvm install 12.22.12 && nvm use 12.22.12
   # update gem
   - gem update --system
   #install gems through bundler

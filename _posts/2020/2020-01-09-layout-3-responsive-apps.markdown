@@ -12,10 +12,8 @@ src <https://flutter.dev/docs/development/ui/layout/responsive>
 相關文章
 * [Layout 1: Layouts in Flutter]({{ site.baseurl }}{% link _posts/2020/2020-01-09-layout-1.markdown %})
 * [Layout 2: Tutorial]({{ site.baseurl }}{% link _posts/2020/2020-01-09-layout-2-tutorial.markdown %})
-* [Layout 3: Creating responsive apps]({{ site.baseurl }}{% link _
-  posts/2020/2020-01-09-layout-3-responsive-apps.markdown %})
-* [Layout 4: Dealing with box constraints]({{ site.baseurl }}{% link _
-  posts/2020/2020-01-09-layout-4-box-constraints.markdown %})
+* [Layout 3: Creating responsive apps]({{ site.baseurl }}{% link _posts/2020/2020-01-09-layout-3-responsive-apps.markdown %})
+* [Layout 4: Dealing with box constraints]({{ site.baseurl }}{% link _posts/2020/2020-01-09-layout-4-box-constraints.markdown %})
 
 無論是針對 mobile 行動裝置還是 web，創造能響應尺寸變動與方向改變的 apps 都很重要。
 
@@ -49,14 +47,12 @@ Flutter 可以幫助您創造自動適應裝置螢幕尺寸與方向的 apps。
 For more information, here are a few resources,
 including contributions from the Flutter community:
 
-* [Developing for Multiple Screen Sizes and Orientations in Flutter]({{ site.baseurl }}{% link _
-  posts/2020/2020-01-13-multiple-screen-flutter.markdown %}) by Deven Joshi
+* [Developing for Multiple Screen Sizes and Orientations in Flutter]({{ site.baseurl }}{% link _posts/2020/2020-01-13-multiple-screen-flutter.markdown %}) by Deven Joshi
 
 * [Build Responsive UIs in Flutter]({{ site.baseurl }}{% link _posts/2020/2020-01-12-responsive-flutter.markdown %}) by
   Raouf Rahiche
 
-* [Making Cross-platform Flutter Landing Page Responsive]({{ site.baseurl }}{% link _
-  posts/2020/2020-01-11-cross-platform-flutter-responsive.markdown %}) by Priyanka Tyagi
+* [Making Cross-platform Flutter Landing Page Responsive]({{ site.baseurl }}{% link _posts/2020/2020-01-11-cross-platform-flutter-responsive.markdown %}) by Priyanka Tyagi
 
 * [How to make flutter app responsive according to different screen size?](https://stackoverflow.com/questions/49704497/how-to-make-flutter-app-responsive-according-to-different-screen-size)
   {:target="_blank"}, a question on StackOverflow

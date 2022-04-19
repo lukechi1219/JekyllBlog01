@@ -1,0 +1,51 @@
+---
+
+# layout: post
+
+author: luke_chi
+
+title:  "notes"
+date:   2022-04-18 00:00:00 +0800
+
+categories: []
+tags: []
+---
+
+[vgod 選擇適合自己的公司](https://vgod.medium.com/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E4%BF%AE%E7%85%89%E8%88%87%E6%88%90%E9%95%B7-9-%E9%81%B8%E6%93%87%E6%9C%80%E9%81%A9%E5%90%88%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%AC%E5%8F%B8-bbf12aee64f9){:target="_blank"}
+
+[mosky 邊玩邊完成目標：瑪利歐方塊](https://mosky.medium.com/%E9%81%8A%E6%88%B2%E4%BD%A0%E7%9A%84%E7%9B%AE%E6%A8%99-%E7%91%AA%E5%88%A9%E6%AD%90%E6%96%B9%E5%A1%8A-bffcee1c6864z){:target="_blank"}
+
+[mosky vim](https://www.facebook.com/1287160323/posts/10218954593477622/?d=n){:target="_blank"}
+
+為了振興我大 Vim 帝國，決定來分享一些筆記： <br>
+• Vim Shortcuts:
+https://paper.dropbox.com/doc/Vim-Shortcuts-Moskys-Notes-BR2XNKI0WTOEN70VsV1ZP <br>
+• Vim's Search Tips:
+https://paper.dropbox.com/doc/Vims-Search-Tips-Moskys-Notes-dnA08f27pwrQBaUgpRZZP <br>
+• Vim's Replace Tips:
+https://paper.dropbox.com/doc/Vims-Replace-Tips-Moskys-Notes-2J6omYzIV9aOGURUojNW6 <br>
+Shortcuts 是基本跟進階的移動、編輯操作，其實很少看到編輯器有 #、*、CTRL-O 這麼簡單優雅的功能。<br>
+Search Tips 進一步探索了 Vim 的搜尋，當一切都是指令，例如 offset、搜尋兩次，都可以很簡單辦到。<br>
+Replace Tips 把常用的 Vim 取代指令整理出來，GUI 比較方便做到一些事，但 Vim 其實也可以。<br>
+
+https://sean-warman.medium.com/why-vim-is-better-than-vscode-d09e2355eb37
+
+.
+
+[極速開發 - tennis v4 by IntelliJ]
+https://youtube.com/watch?v=LA7dgej1_48&feature=share
+
+[Unit Testing and Coverage in IntelliJ IDEA]
+https://youtube.com/watch?v=QDFI19lj4OM&feature=share
+
+
+2022 future of jobs
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/06HCKUeC15Q" frameborder="0" allowfullscreen></iframe>
+
+[css tips]
+https://www.facebook.com/100044593262144/posts/537692961060475/?d=n
+
+
+
+

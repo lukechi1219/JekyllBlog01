@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "nokogiri", ">= 1.13.4"
+gem "nokogiri", ">= 1.13.6"
 
 gem "activesupport", ">= 5.2.4.3"
 

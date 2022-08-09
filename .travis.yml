@@ -28,6 +28,10 @@ before_install:
   - bundle check || bundle install 
 
 install:
+  - nvm --version
+  - nvm ls
+  - node --version
+  - npm --version
   #install firebase tools, required to deploy on firebase hosting 
   - npm install -g firebase-tools@11.4.2
   # precache

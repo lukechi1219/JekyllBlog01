@@ -29,7 +29,7 @@ before_install:
 
 install:
   #install firebase tools, required to deploy on firebase hosting 
-  - npm install -g firebase-tools 
+  - npm install -g firebase-tools@11.4.2
   # precache
   - npm install --save-dev sw-precache
 

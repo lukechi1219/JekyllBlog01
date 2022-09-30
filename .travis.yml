@@ -34,7 +34,7 @@ install:
 # the `install` step will run `bundle install` by default.
 script:
 #  - nvm --version
-  - nvm use v14.20.0
+  - nvm use v14.20.1
   - nvm ls
   - node --version
   - npm --version

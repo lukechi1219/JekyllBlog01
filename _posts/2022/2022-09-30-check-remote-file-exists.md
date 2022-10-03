@@ -4,11 +4,28 @@
 
 author: luke_chi
 
-title:  "check if file exists on remote host with ssh"
+title:  "check if file exists on local or remote host with ssh"
 date:   2022-09-30 00:00:00 +0800
 
 categories: []
 tags: [ssh, linux]
+---
+
+check local file
+
+```shell
+FILE=/mnt/glusterfs/pg-php/deploy/staging/api.tar
+
+if [ -f "$FILE" ] ;
+then
+    echo "staging $FILE exists."
+    exit 1
+else
+	echo "staging File does not exist"
+fi
+```
+
+
 ---
 
 check if file exists on remote host with ssh

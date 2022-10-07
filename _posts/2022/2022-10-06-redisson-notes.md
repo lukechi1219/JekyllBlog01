@@ -21,7 +21,7 @@ tags: [redisson]
 - 任务的启动时间将根据上次实际清理数量自动调整，间隔时间趋于1秒到2小时之间。比如该次清理时删除了100条元素，那么下次执行清理的时间将在1秒以后（最小间隔时间）。一旦该次清理数量少于上次清理数量，时间间隔将增加1.5倍。
 - .
 - LocalCachedMapOptions options = LocalCachedMapOptions.defaults()
-  // 淘汰机制有LFU, LRU和NONE这几种算法策略可供选择
+  // 淘汰机制有 LFU, LRU 和 NONE 这几种算法策略可供选择
 -
 
 ---

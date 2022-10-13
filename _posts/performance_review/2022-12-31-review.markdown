@@ -1,0 +1,144 @@
+---
+
+# layout: post
+
+author: luke_chi
+
+title:  "Temp"
+date:   2021-12-31 00:00:00 +0800
+
+categories: [p_review]
+tags: []
+---
+
+[](){:target="_blank"}
+
+![image](){:target="_blank"}
+
+```mermaid
+graph TD
+    Start --> Stop
+```
+
+```mermaid
+flowchart LR
+    A --> B
+```
+
+
+一、整體工作表現考核  Overall Work Performance
+
+* A-1、工作職務狀況 Working Review 70%
+
+- db monitor
+- study 微前端
+- study Unit Testing / E2E Testing
+- study Redis
+- PWA ?
+- 支付架構調整 ?
+- 研究微服務 ?
+
+.
+
+- jenkins
+  - help php team 做 UAT jenkins 上版
+  - .
+- angular
+  - improvement
+    - compodoc
+    - test coverage
+    - test visual
+    - storybook
+    - review f2e/m 架構 , 與 B 討論 -> 動到 nx 資料夾架構 , 影響到 nx 其他 plug-in 功能
+    - .
+  - 微前端 XPSX
+    - 設定 nx + angular-architects
+    - XPS + SX 整合 poc 跟 critical path -> SSR
+    - 跨框架 狀態同步
+    - XPSX 整合 / 畫面 & 路由
+    - 切換 angular app 版本 -> 用環境變數 + 可以在瀏覽器端動態切換
+    - 切換 angular app 版本 - Component Composition
+    - 切換 angular app 版本 - routing -> routes provider useFactory
+    - dev f2e 上版
+    - 整理 前端 XPSX 整合 poc 過程相關資料
+    - 處理 板球 vue 整合問題
+    - 與 SX 討論 maintain 或登入不正常的處理與 ng / vue 溝通資訊
+    - .
+  - Unit Test / E2E Test
+    - study Angular unit testing
+    - study Angular e2e testing
+    - 怎麼閱讀 test report ?
+    - 怎麼提高 Coverage ?
+    - 前端測試規範 ?
+      - 收集業界 best practices 以及閱讀整理 , 再與 D 討論
+      - 覆蓋率要多高 ? 哪些東西不需要測試 ?
+    - 準備 程式 範例
+    - 準備 Angular testing 分享
+    - .
+  - .
+- db monitor
+  - 拔掉 hazelcast , 換成 rediss
+  - 改掉 distributed cache , 換成 local map
+  - 插單 db monitor 改串接 grafana
+  - .
+- Redis
+  - 優化 BeaPlayerCache ?
+  - 優化 TokenRecordCache ?
+  - redis 壓力測試
+  - 調整程式，讓 BeaPlayerCache 不再繼承 PlayerCache
+  - redis annotation 相關 cache 改成 by site 決定要不要放進 redis
+  - 正式環境 redis 問題 -> acc doc missing? -> use int as key -> change to EnumMap
+  - 看 kevin 講的 playre contact cache 問題 -> setter / getter different name -> json data become double
+  - 在 dev / uat 追蹤 redis 問題 , 加 log 跟 telegram notify
+  - 正式環境 redis 問題 , 請 stan 看 redis server , 在程式中加 log , 在 uat 觀察問題
+  - issues
+    - put / get() null -> removed by other thread
+    - nettyThread not enough ?
+  - Redisson / Redis 研究
+    - test redisson
+      - RLocalCachedMap
+      - RedissonList
+      - RedissonQueue
+      - RExpirable
+      - RObject
+    - .
+- 處理問題
+  - 滲透測試
+    - 更新 滲透測試 war
+    - 滲透測試 結案會議
+  - rd server
+    - rd server bo notify 問題 ? -> db 加 ip setting, fix port
+    - 調整 .59 nginx haproxy 設定
+    - help david -> 協助 處理 valve 跟 /external api docs 問題
+  - review built test fail -> css re-name
+  - fix jenkins F2E_M -> 升級 node , npm , rm node_modules/
+  - .
+- .
+
+
+* A-2、職務成長 Growth 15%
+
+
+* A-3、團隊合作&溝通能力 Team Working & Communication Skill 15%
+
+
+
+
+
+二、各項建議與自我發展目標  Recommendations and self-development goals
+
+* 5. 我想對部門 / 團隊內的工作流程給予建議
+
+
+* 8. 工作目標與自我發展計畫 Work goals and self-development plan
+
+
+
+
+
+三、主管回饋 Comments from Line Manager
+
+* 1. 針對該同仁下半年的職務目標或訓練發展計畫、工作任務、績效目標或改善加強方向，請主管提供至少3點目標和建議
+
+
+

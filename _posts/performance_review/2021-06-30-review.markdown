@@ -1,0 +1,47 @@
+---
+
+# layout: post
+
+author: luke_chi
+
+title:  "Temp"
+date:   2021-06-30 00:00:00 +0800
+
+categories: [p_review]
+tags: []
+---
+
+[](){:target="_blank"}
+
+![image](){:target="_blank"}
+
+一、整體工作表現考核  Overall Work Performance
+
+* A-1、工作職務狀況 Working Review 70%
+
+
+* A-2、職務成長 Growth 15%
+
+
+* A-3、團隊合作&溝通能力 Team Working & Communication Skill 15%
+
+
+
+
+
+二、各項建議與自我發展目標  Recommendations and self-development goals
+
+* 5. 我想對部門 / 團隊內的工作流程給予建議
+
+
+* 8. 工作目標與自我發展計畫 Work goals and self-development plan
+
+
+
+
+
+三、主管回饋 Comments from Line Manager
+
+* 1. 針對該同仁下半年的職務目標或訓練發展計畫、工作任務、績效目標或改善加強方向，請主管提供至少3點目標和建議
+
+

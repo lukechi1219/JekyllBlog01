@@ -15,6 +15,11 @@ https://redis.com/blog/redis-developer-certification-is-here/
 
 https://data-xtractor.com/blog/databases/redis-certified-developer/
 
+- How to Prepare For and Pass the Exam in Just 4 Days
+  - https://data-xtractor.com/blog/databases/redis-certified-developer/
+  - .
+- .
+
 http://www.redis.cn/
 
 https://aws.amazon.com/tw/redis/

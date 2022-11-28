@@ -41,13 +41,13 @@ script:
   #install firebase tools, required to deploy on firebase hosting
   - npm install -g firebase-tools@11.11.0
   # precache
-  - npm install --save-dev sw-precache
+  # - npm install --save-dev sw-precache
   #continue even after error
   - set -e
   #build jekyll site
   - JEKYLL_ENV=production jekyll build
   # precache
-  - npm run precache
+  # - npm run precache
 
 after_success:
   #deploy to firebase using stored token. 

@@ -25,9 +25,13 @@ prepare jmx_prometheus.yaml
 ```yaml
 lowercaseOutputLabelNames: true
 lowercaseOutputName: true
-whitelistObjectNames: ["java.lang:type=OperatingSystem", "Catalina:*"]
-blacklistObjectNames: []
 rules:
+  - pattern: 'java.lang<type=OperatingSystem><>(FreePhysicalMemorySize|TotalPhysicalMemorySize|FreeSwapSpaceSize|TotalSwapSpaceSize|SystemCpuLoad|ProcessCpuLoad|OpenFileDescriptorCount|AvailableProcessors)'
+    name: java_lang_OperatingSystem_$1
+    type: GAUGE
+  - pattern: 'java.lang<type=Threading><>(TotalStartedThreadCount|ThreadCount)'
+    name: java_lang_threading_$1
+    type: GAUGE
   - pattern: 'Catalina<type=Server><>serverInfo: (.+)'
     name: tomcat_serverinfo
     value: 1
@@ -62,6 +66,7 @@ rules:
       host: "$1"
     help: Tomcat session $3 total
     type: COUNTER
+  - pattern: ".*"	
 ```
 
 ---

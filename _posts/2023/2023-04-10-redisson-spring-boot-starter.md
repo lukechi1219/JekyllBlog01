@@ -4,7 +4,7 @@
 
 author: luke_chi
 
-title:  "Direct use redisson in spring-boot"
+title:  "Directly use Redisson in Spring Boot"
 date:   2023-04-10 00:00:00 +0800
 
 categories: []
@@ -12,6 +12,9 @@ tags: []
 ---
 
 https://github.com/redisson/redisson/tree/master/redisson-spring-boot-starter
+
+- for java 8
+  - use redisson-spring-boot-starter 2.15.2
 
 - /build.gradle
 
